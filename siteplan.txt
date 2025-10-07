@@ -1,0 +1,116 @@
+1. Site Name
+Entine Character Sheet Generator
+This name says exactly what the site does: it’s a tool for making character sheets in the Entine world. “Character Sheet Generator” tells people the function right away, and “Entine” ties it into the bigger fantasy universe, which makes it useful for anyone into role-playing, storytelling, or world-building.
+
+2. Site Purpose
+The Entine Character Sheet Generator is made to:
+
+Create Characters: Build fantasy character sheets with random stats, skills, and backstories.
+
+Customize Everything: Change names, stats, skills, and background info however you want right on the page.
+
+Save Files: Export finished sheets as JSON files for games, stories, or collections.
+
+Support Roleplay & Writing: Quick, balanced characters for tabletop RPGs, writers, or anyone building a fantasy world.
+
+Learn Character Building: Show how to structure characters and teach world-building through the process.
+
+3. Scenarios
+
+Scenario 1: Jessica (22) runs D&D for her friends every Friday. As DM, she needs a bunch of NPCs fast. She can use the generator to create diverse characters with different genders and species, then save them for the session.
+
+Scenario 2: Marcus (17) is writing his first fantasy novel. He’s stuck on character ideas. The generator gives him a base to work with, and he can tweak the details to fit his story and save them for reference.
+
+4. Color Scheme
+
+Gold (#FFD700): For text, titles, borders, and button text. Makes the site feel magical and easy to read.
+
+Dark Forest Green (rgba(36,54,39,0.92)): Used as section backgrounds to give everything a mystical feel.
+
+Dark Gradient (#232526 → #485563): Main background for depth and atmosphere.
+
+Semi-transparent Black (rgba(0,0,0,0.25)): For character sheet areas to create focus.
+
+Orange (#FFA500): Accent color for button hovers and labels.
+
+5. Typography
+
+Primary Font: Segoe UI, Arial, sans-serif → clean and readable across all devices.
+
+Secondary Font: Georgia, serif → used for names and key details to give a classic, fantasy vibe.
+
+6. Wireframes
+
+Mobile (320px–768px):
+
+Header: Back to Home
+
+Main Container with rounded border
+
+Title: Character Sheet Generator
+
+Gender dropdown (full width)
+
+Species dropdown (full width)
+
+Generate button (full width)
+
+Character Sheet Area (hidden until generated)
+
+Editable name, species, gender
+
+Info, attributes, skills, background
+
+Buttons: Save / Regenerate / Clear (stacked)
+
+Footer
+
+Desktop (768px+):
+
+Header: Back to Home
+
+Centered container
+
+Title: Character Sheet Generator
+
+Gender dropdown | Species dropdown | Generate button
+
+Character Sheet Grid Layout (2x2)
+
+Editable name, species, gender
+
+Info, attributes, skills, background
+
+Buttons: Save / Regenerate / Clear (horizontal)
+
+Footer
+
+7. Features
+
+Core:
+
+Choose gender (Male/Female)
+
+Choose species (Human, Elf, Dwarf, Randeth, Dragon, Fairy)
+
+Random character generation with balanced stats
+
+Editable fields
+
+Download to JSON
+
+Fully responsive design
+
+Easy navigation and clear feedback
+
+Tech Side:
+
+HTML5 with semantic elements
+
+CSS Grid + Flexbox layouts
+
+JavaScript for generation and saving
+
+Local storage support
+
+Works across browsers + accessibility-friendly
